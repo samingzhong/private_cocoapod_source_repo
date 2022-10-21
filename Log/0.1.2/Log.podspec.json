@@ -1,0 +1,22 @@
+{
+  "name": "Log",
+  "version": "0.1.2",
+  "summary": "A short description of Log.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/samingzhong/Log",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "samingzhong": "samingzhong@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/samingzhong/Log.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Log/Classes/**/*"
+}
